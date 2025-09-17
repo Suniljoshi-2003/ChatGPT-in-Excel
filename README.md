@@ -1,5 +1,10 @@
 # ChatGPT-in-Excel
-## Data 
+## Data - 
+ Give me a 20 rows sample data in table format where first column
+ must me employee id then second column must be Indian
+ employee name third column must be gender fourth column must
+ be birthdate of employee fifth column must be employee annual
+ CTC ($) ctc format is text
  ---
 | Employee ID | Employee Name    | Gender | Birthdate  | Annual CTC (\$) |
 | ----------- | ---------------- | ------ | ---------- | --------------- |
@@ -25,3 +30,5 @@
 | EMP020      | Anu Thomas       | Female | 29-09-1994 | \$7,60,000      |
 
 ---
+
+
