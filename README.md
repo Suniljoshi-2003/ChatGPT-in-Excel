@@ -1,5 +1,6 @@
 # ChatGPT-in-Excel
 ## Data - 
+* Question 1 -
  Give me a 20 rows sample data in table format where first column
  must me employee id then second column must be Indian
  employee name third column must be gender fourth column must
