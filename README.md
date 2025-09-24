@@ -31,5 +31,10 @@
 | EMP020      | Anu Thomas       | Female | 29-09-1994 | \$7,60,000      |
 
 ---
-
+*Question No.2
+ Ok thanks for the Table of sample data now I have copied and
+ paste this data into my excel sheet Where employee id is appears
+ in A column now I want to make sum calculation first of all tell me
+ that how do I Change currency format of Employee annual CTC
+ from dollar format to Indian rupees
 
