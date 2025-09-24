@@ -38,3 +38,26 @@
  that how do I Change currency format of Employee annual CTC
  from dollar format to Indian rupees
 
+---
+
+* Question 3 -
+ I have Follow the above steps but problem is that Employee CTC
+ has comma inside the number and $ sign is also not from the
+ currency format it is a character over there so I want to remove
+ comma from the CTC and also remove the $ sign so tell me that
+ how to remove this two things from employee CTC
+
+---
+* Question 4 -
+ Great guidance so far now I have got the new values in F column I
+ wanted to paste these values into E column but there is formula
+ inside F column so that's why I am not able to paste it properly so
+ tell me that how to paste it so that I should Get F column values in
+ place of E column.
+
+---
+* Question 5 -
+ Yes I did it but there is green mark on cell of E column and it shows
+ several options like number sorted as a text, convert to number,
+ help on this error, ignore error What should I select from these
+ option
