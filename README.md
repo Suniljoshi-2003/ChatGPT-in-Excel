@@ -61,3 +61,35 @@
  several options like number sorted as a text, convert to number,
  help on this error, ignore error What should I select from these
  option
+
+---
+* Question 6 -
+ Done, Now I wanted to get total for E column in Cell F1 so what
+ will be the formula
+---
+
+* Question 7 - 
+ Now I wanted to calculate total Male and Female gender CTC
+ separately so what will be the formula?
+
+---
+* Question 8 -
+ Wanted to calculate CTC of employee who those are born before
+ 1990 so what will be the formula
+  ---
+
+  * Question 9 -
+ Now I Want to calculate CTC of employee who those are born
+ before 1990 and they are Male so what will be the formula
+
+---
+
+* Question 10 -
+ To count the total number of employee those who born before
+ 1990 what will be the formula
+
+  ---
+
+* Question 11 -
+ To count the total number of employee those who born before
+ 1990 only female employees what will be the formula
